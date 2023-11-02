@@ -1,0 +1,3 @@
+[submodule "ips4o"]
+	path = ips4o
+	url = https://github.com/atrostan/ips4o.git
